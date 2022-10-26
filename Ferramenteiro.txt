@@ -1,0 +1,20 @@
+SQL:
+-MySQL Workbench
+-Oracle SQL Developer
+
+Coleta de dados:
+-Python com Pandas, numpy;
+-Jupyter Notebook;
+
+Coleta de dados na web:
+-WebCrawler: é um crawler que visita todos os links
+de um HTML, cria uma lista, indexa ela e armazena em um
+banco de dados;
+-Web Scraping: é um método que utiliza os códigos de um 
+website e tenta tirar o máximo de dados dele, tornando possí-
+vel a transformação em XML, SQL E Excel;
+-Python com Pandas, NumPy, Beautiful Soup e Jupyter Notebook como
+apoio para operações. 
+-Python com Selenium ou scrapy;
+
+- INSTALAR O RUNY da A3Data; pip install runy

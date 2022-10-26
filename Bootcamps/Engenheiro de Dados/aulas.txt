@@ -1,0 +1,40 @@
+aulas importantes
+estão em sequência.
+máquina virtual:
+https://drive.google.com/drive/folders/1YmdPcmHMBDuUfN1XNQ11AlS-m-gAA7dq
+
+Extração de dados INEP:
+1. https://www.youtube.com/watch?v=sUQPulQ5dec
+2. https://www.youtube.com/watch?v=7K1UAm0MUnM
+3. https://www.youtube.com/watch?v=XJHRcFffiRQ
+
+Extração de dados na prática - Twitter App:
+1. https://www.youtube.com/watch?v=_VeSMwjibsw
+2. https://www.youtube.com/watch?v=zyM7vAtxwKM
+3. https://www.youtube.com/watch?v=IClf9Qnen1k
+
+Transformação de dados na prática - Organização e Tratamento:
+1. https://www.youtube.com/watch?v=KZ0Ir_WLfSk
+2. https://www.youtube.com/watch?v=FZ0D3XmjJp4
+3. https://www.youtube.com/watch?v=9W5DBrHGTys
+4. https://www.youtube.com/watch?v=p9g5xwpJbQI
+
+Data Flow na prática - AirFlow:
+1. https://www.youtube.com/watch?v=fVcW33ftLzU
+2. https://www.youtube.com/watch?v=iF6rD-xR3_Y
+3. https://www.youtube.com/watch?v=txshWPUaoTs
+4. https://www.youtube.com/watch?v=XvG4s32LX18
+5. https://www.youtube.com/watch?v=pYmTfH4hsvY
+6. https://www.youtube.com/watch?v=Z99GLH5sh18
+7. https://www.youtube.com/watch?v=SWec6w2cfNs
+
+Data Flow na prática - Prefect:
+1. https://www.youtube.com/watch?v=aNoI6bF_JBQ
+2. https://www.youtube.com/watch?v=7AHtgYf1bKo
+3. https://www.youtube.com/watch?v=AO9hiV7fexM
+4. https://www.youtube.com/watch?v=Cix2alUzlqs
+
+
+COLETA DE DADOS:
+1.Coleta de dados em arquivos: https://youtu.be/tel4vVp23aw
+2.Coleta de dados em lista de arquivos: https://youtu.be/XhZsaJ4cE0I

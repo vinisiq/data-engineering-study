@@ -1,0 +1,5 @@
+cod_pessoa;nome;genero;data_nascimento;data_compra;fabricante;modelo;valor
+1000;Alice;Feminino;1992-06-20;2020-03-12;Volkswagen; Gol 1.0;54150
+1019;Lara;Feminino;1966-05-11;2020-03-12;Volkswagen; Gol 1.0;54150
+1096;Luana;Feminino;1969-01-24;2020-03-12;Fiat;Mobi Easy 1.5;40449
+1178;Martin;Masculino;1967-06-01;2020-03-12;Fiat;Mobi Easy 1.5;40449

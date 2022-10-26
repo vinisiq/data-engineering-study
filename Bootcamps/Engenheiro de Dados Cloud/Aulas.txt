@@ -1,0 +1,171 @@
+https://drive.google.com/drive/folders/1WN0W7nKywpK1udmijxM66zD8szQ8gWPC
+Aula 1 - Fundamentos em Arquitetura de Dados
+
+Aula 1.1. Por quê ir para a cloud? 
+https://youtu.be/fhhCWCoJyZI
+
+Aula 1.2. Well Architected Framework - O que define uma “boa” arquitetura? 
+https://youtu.be/bKCBn3Xl4xg
+
+Aula 1.3. Pilar Excelência Operacional 
+https://youtu.be/nDB7chZEQBA
+
+Aula 1.4. Pilar Segurança 
+https://youtu.be/V3OhhvkKiYg
+
+Aula 1.5. Pilar Confiabilidade 
+https://youtu.be/CGeA85h8ps8
+
+Aula 1.6. Pilar Eficiência de Desempenho
+https://youtu.be/gp910gFx0es
+
+Aula 1.7. Pilar Otimização de custos  
+https://youtu.be/uMl_QFHVeLY
+
+Aula 2 - Modelos de Arquiteturas de Dados em Nuvem
+
+Aula 2.1. Databases gerenciados - Relacional
+https://youtu.be/KQ7XQygMofs
+
+Aula 2.2. Databases gerenciados - Não relacional
+https://youtu.be/5RYSdiycY8w
+
+Aula 2.3. Data Lake - Desenho da Arquitetura
+https://youtu.be/rndLB0Yhjq8
+
+Aula 2.4. Data Lake - Armazenamento
+https://youtu.be/-DLyxu8pglY
+
+Aula 2.5. Data Lake - Ingestão de dados
+https://youtu.be/nTZ34NAvIs8
+
+Aula 2.6. Data Lake - Processamento de Big Data
+https://youtu.be/Zn0hYlAmnUI
+
+Aula 2.7. Data Lake - Consumo de Dados - DW e Engines
+https://youtu.be/DD3b3w_X_3c
+
+Aula 3 - Prática
+
+Aula 3.1. Database em nuvem com AWS RDS - inicia criando a instância aqui, faz as inbound rules
+https://youtu.be/eImE5ZOg5L8
+
+Aula 3.2. Data Lake com AWS S3 - cria o bucket
+https://youtu.be/T9yaddHHRHs
+
+Aula 3.3. Extração de Dados com AWS DMS - utiliza a conexão DBeaver que foi feita no RDS para mandar o database para o S3(eu n fiz pq exclui dps que testei o RDS na outra aula)
+https://youtu.be/gO3DxmWjrxQ
+
+Aula 3.4. Processamento de Big Data com AWS EMR
+https://youtu.be/FjD0N1YMwSo
+
+Aula 3.5. Processamento de Big Data com AWS Glue
+https://youtu.be/2mcdMJ3gAPQ
+
+Aula 3.6. Disponibilização de Dados com AWS Athena
+https://youtu.be/2IThFekaQBI
+
+Aula 4 - IaC - Infraestrutura como código
+
+Aula 4.1.  Ferramentas de IaC  
+https://youtu.be/f4Hs1_Rt6W8
+
+Aula 4.2.  Terraform - Uso básico
+https://youtu.be/LTUIP90vi4s
+
+Aula 4.3.  Controle de versão de código com Github  
+https://youtu.be/jH_cx6PH6CQ
+
+Aula 4.4.  Esteiras de deploy com Github  
+https://youtu.be/mtDPk3GjtRk
+
+Aula 5 - Use Cases - Prática
+
+Aula 5.1. Data LakeHouse com Delta Lake e EMR
+https://youtu.be/mRPym7WRYJg
+
+Aula 5.2. Streaming de Dados com AWS Kinesis
+https://youtu.be/HvTBkXEmckE
+
+Aula 5.3. Orquestrando Pipelines com Airflow
+https://youtu.be/97paOYk0Mbo
+
+Encerramento - Resumo, outras ferramentas e próximos passos
+https://youtu.be/V90yNMv6GWY
+
+https://github.com/neylsoncrepalde/igti_edc_mod1_desafio_final_rais
+
+SPARK - https://github.com/pltoledo/igti-dados-massivos
+Básico:
+1.Dataframes e Datasets: https://youtu.be/DAcTaTBZexU
+2.Tipos de dados no Spark: https://youtu.be/mzeruzEZexU
+3.Schema e criação de dataframes: https://youtu.be/RRncVOuYFQc
+4.Leitura e escrita de dados - Parte I: https://youtu.be/4aoO4L83Goo
+5.Leitura e escrita de dados - Parte II: https://youtu.be/D4MRp50DeCk
+6.Operações básicas com DataFrames - Parte I: https://youtu.be/B2wwK_4SgbI
+7.Operações básicas com DataFrames - Parte II: https://youtu.be/vhy1fNRYwes
+8.Operações básicas com DataFrames - Parte III: https://youtu.be/0ZDCQvh87eI
+9.Trabalhando com diferentes tipos de dados: https://youtu.be/hT2-ULBXmHM
+10.Agrupamento e Agregações: https://youtu.be/WVS60Rpx53o
+11.Window Functions: https://youtu.be/o5fpOFfk5C4
+12.Joins: https://youtu.be/9tIsF6vomlY
+13.User Defined Functions (UDFs): https://youtu.be/Mzo-MiY_bEw
+
+SparkSQL:
+1.Visão geral do Spark SQL: https://youtu.be/ec7i-tw7VXY
+2.Databases e catalog: https://youtu.be/lZT4Wuo_s-A
+3.Criando tabelas e views: https://youtu.be/4AdbHBP0_Pc
+4.Fazendo querys no Spark SQL: https://youtu.be/N5NnNvpUoDI
+
+Otimizando Aplicações do Spark:
+1.Como configurar e escalar o Spark: https://youtu.be/5F7TQuB_y6I
+2.Persistência de dados na memória: https://youtu.be/cAbvjp1PP48
+3.Estratégias de particionamento de dados: https://youtu.be/1XF1_pRJmqk
+4.Reparticionando DataFrames: https://youtu.be/V4IoM7Hm0gI
+5.Escolhendo o melhor tipo de Join: https://youtu.be/iXHhpwN99Ag
+
+Deploy de Aplicações Spark:
+1.Introdução e modos de execução: https://youtu.be/Avo6Zq91wM4
+2.Desenvolvendo aplicações Spark: https://youtu.be/wd4rjW8n5G4
+3.Executando o Spark em Clusters: https://youtu.be/YSqqq96-sgI
+4.Exemplo prático: lançando uma aplicação localmente: https://youtu.be/k0X2NREkGwo
+
+Spark na Nuvem:
+1.Introdução ao Dataproc e ao GCS: https://youtu.be/Om5t6CslQuc
+2.Criando um cluster no Dataproc: https://youtu.be/gX3wwjqb46o
+3.Acessando dados do GCS: https://youtu.be/qKNQEWhv_cA
+4.Submetendo aplicações GCS: https://youtu.be/gvb4AoNAI2Q
+
+
+DOCKER E KUBERNETES - Desenho de arquiteturas escaláveis
+Docker:
+1.Monolitos e Arquitetura de microsserviços: https://youtu.be/BPsT66C3jOs
+2.Visualização clássica de containers: https://youtu.be/OzxyOvWjTqg
+3.Docker: Comandos básicos - Parte I: https://youtu.be/WLV3uyGSsns
+4.Docker: Comandos básicos - Parte II: https://youtu.be/kqImx2Ztu38
+5.Docker: Construção de uma imagem - Parte I: https://youtu.be/FMs9EduonA8
+6.Docker: Construção de uma imagem - Parte II: https://youtu.be/jpmrEBTnIV4
+7.Docker: Repositórios remotos: https://youtu.be/xyeSXfByAkE
+
+Kubernetes:
+1.Kubernetes: Origens, arquitetura e benefícios: https://youtu.be/EaLfacfIWUE
+2.Instalando o Kubernetes localmente: https://youtu.be/_ejTHDop8HY
+3.Instalando o Kubernetes em nuvem - Parte I: https://youtu.be/tmEVlN6fP-o
+4.Instalando o Kubernetes em nuvem - Parte II: https://youtu.be/7E_niYzDovk
+5.Comandos básicos: https://youtu.be/Kbw9q0Rh2DM
+6.Manifesto do Pod: https://youtu.be/mLQkh-AEEO8
+7.Deploy e remoção de Pods: https://youtu.be/Ja9Y4oXpO0o
+8.Serviços: https://youtu.be/L8kIP2wsN64
+9.Deployments: https://youtu.be/hfW9TUOHEd4
+10.Jobs: https://youtu.be/QDJgij2DPqQ
+11.ConfigMaps e Secrets: https://youtu.be/k5gkjn-HOFg
+12.Stateful Sets: https://youtu.be/aoe5uryFjU0
+
+Aplicações de Dados em Kubernetes:
+1.Airflow: https://youtu.be/ekCUOt-enbs
+2.Spark: https://youtu.be/eyAT7wcaVk8
+3.Argo CD: https://youtu.be/CzCa4ffroTU
+---Use Cases: https://youtu.be/28XqVda1rCk {IMPORTANTE}---
+
+
+

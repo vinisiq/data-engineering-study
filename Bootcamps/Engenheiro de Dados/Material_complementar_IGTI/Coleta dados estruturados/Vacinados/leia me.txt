@@ -1,0 +1,22 @@
+*** Instruções de uso ***
+
+Este diretório contém o projeto e os  aquivos utilizados.
+A pasta dataset contém o arquivo csv da estatisticas de vacinados.
+
+E o projeto da aula coleta de dados estrututados.
+
+
+Este diretório contém a base utilizada no projeto dentro da pasta datasets
+E o projeto da aula coleta de dados estruturados.
+
+Para executar o arquivo, basta executar o jupyter no diretório que contém os arquivos.
+
+Por exemplo: Se você salvou o arquivo no diretorio C:\Projetos\coleta_dados_estruturados
+1. Basta acessar o prompt do comando executar como modo administrador
+2. Ativar o ambiente virtual 
+3. Executar o comando jupyter notebook na pasta onde esta armazenado o projeto
+	Para isso digite antes CD <é o caminho do projeto> 
+	Ex: >> CD C:\C:\Projetos\coleta_dados_estruturados
+	    >> jupyter notebook	
+
+

@@ -1,0 +1,18 @@
+*** Instruções de uso ***
+
+Este diretório contém o projeto e os  aquivos utilizados.
+A pasta dataset possui a lista de arquivos separados por data
+A pasta diagramaER possui o diagrama de entidade relacionamento e o script do banco de dados
+
+Projeto da aula coleta de dados em lista de arquivos.
+
+
+Para executar o arquivo, basta abrir o jupyter no diretório que contém os arquivos.
+
+Por exemplo: Se você salvou o arquivo no diretorio C:\Projetos\coleta_dados_estruturados
+1. Basta acessar o prompt do comando executar como modo administrador
+2. Ativar o ambiente virtual 
+3. Executar o comando jupyter notebook na pasta onde esta armazenado o projeto
+	Para isso digite antes CD <é o caminho do projeto> 
+	Ex: >> CD C:\C:\Projetos\coleta_dados_estruturados
+	    >> jupyter notebook	
